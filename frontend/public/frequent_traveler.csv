@@ -1,0 +1,133 @@
+date,merchant,amount,currency,city,state,category
+2025-07-01,AMAZON Mktp US,41.08,USD,Scottsdale,AZ,delivery_shipping
+2025-07-01,MARRIOTT HOTEL,245.63,USD,Scottsdale,AZ,general_retail
+2025-07-02,DELTA AIR,159.84,USD,Scottsdale,AZ,air_travel
+2025-07-02,LYFT RIDE,15.85,USD,Scottsdale,AZ,ride_hail
+2025-07-02,WHOLE FOODS,91.55,USD,Scottsdale,AZ,groceries
+2025-07-03,SOUTHWEST AIR,217.4,USD,Scottsdale,AZ,air_travel
+2025-07-03,STARBUCKS,7.98,USD,Scottsdale,AZ,restaurants
+2025-07-03,WHOLE FOODS,75.56,USD,Scottsdale,AZ,groceries
+2025-07-04,STARBUCKS,5.78,USD,Scottsdale,AZ,restaurants
+2025-07-05,SOUTHWEST AIR,272.05,USD,Scottsdale,AZ,air_travel
+2025-07-05,SOUTHWEST AIR,500.39,USD,Scottsdale,AZ,air_travel
+2025-07-06,AMAZON Mktp US,27.76,USD,Scottsdale,AZ,delivery_shipping
+2025-07-06,SOUTHWEST AIR,275.82,USD,Scottsdale,AZ,air_travel
+2025-07-06,STARBUCKS,6.76,USD,Scottsdale,AZ,restaurants
+2025-07-07,MARRIOTT HOTEL,269.31,USD,Scottsdale,AZ,general_retail
+2025-07-07,SOUTHWEST AIR,150.74,USD,Scottsdale,AZ,air_travel
+2025-07-07,STARBUCKS,3.63,USD,Scottsdale,AZ,restaurants
+2025-07-08,AMAZON Mktp US,26.99,USD,Scottsdale,AZ,delivery_shipping
+2025-07-09,AMAZON Mktp US,57.47,USD,Scottsdale,AZ,delivery_shipping
+2025-07-09,AMAZON Mktp US,44.02,USD,Scottsdale,AZ,delivery_shipping
+2025-07-09,UBER *TRIP,14.93,USD,Scottsdale,AZ,ride_hail
+2025-07-10,AMAZON Mktp US,56.16,USD,Scottsdale,AZ,delivery_shipping
+2025-07-10,WHOLE FOODS,20.02,USD,Scottsdale,AZ,groceries
+2025-07-10,WHOLE FOODS,146.39,USD,Scottsdale,AZ,groceries
+2025-07-11,LYFT RIDE,17.15,USD,Scottsdale,AZ,ride_hail
+2025-07-12,LYFT RIDE,33.65,USD,Scottsdale,AZ,ride_hail
+2025-07-12,SPOTIFY,10.99,USD,Scottsdale,AZ,streaming
+2025-07-13,DELTA AIR,243.27,USD,Scottsdale,AZ,air_travel
+2025-07-13,LYFT RIDE,24.68,USD,Scottsdale,AZ,ride_hail
+2025-07-13,UBER *TRIP,12.03,USD,Scottsdale,AZ,ride_hail
+2025-07-15,AMAZON Mktp US,43.42,USD,Scottsdale,AZ,delivery_shipping
+2025-07-15,DELTA AIR,452.03,USD,Scottsdale,AZ,air_travel
+2025-07-19,SOUTHWEST AIR,280.76,USD,Scottsdale,AZ,air_travel
+2025-07-19,SOUTHWEST AIR,457.81,USD,Scottsdale,AZ,air_travel
+2025-07-20,DELTA AIR,1200.0,USD,Atlanta,GA,air_travel
+2025-07-22,DISNEYPLUS,9.99,USD,Scottsdale,AZ,streaming
+2025-07-22,STARBUCKS,6.22,USD,Scottsdale,AZ,restaurants
+2025-07-22,WHOLE FOODS,56.22,USD,Scottsdale,AZ,groceries
+2025-07-23,WHOLE FOODS,88.42,USD,Scottsdale,AZ,groceries
+2025-07-24,UBER *TRIP,34.09,USD,Scottsdale,AZ,ride_hail
+2025-07-25,UBER *TRIP,12.5,USD,Scottsdale,AZ,ride_hail
+2025-07-25,WHOLE FOODS,135.03,USD,Scottsdale,AZ,groceries
+2025-07-26,AMAZON Mktp US,55.88,USD,Scottsdale,AZ,delivery_shipping
+2025-07-26,LYFT RIDE,17.92,USD,Scottsdale,AZ,ride_hail
+2025-07-26,SOUTHWEST AIR,326.9,USD,Scottsdale,AZ,air_travel
+2025-07-27,AMAZON Mktp US,24.93,USD,Scottsdale,AZ,delivery_shipping
+2025-07-27,AMAZON Mktp US,15.89,USD,Scottsdale,AZ,delivery_shipping
+2025-07-28,LYFT RIDE,16.72,USD,Scottsdale,AZ,ride_hail
+2025-07-28,SOUTHWEST AIR,247.15,USD,Scottsdale,AZ,air_travel
+2025-07-29,SOUTHWEST AIR,314.65,USD,Scottsdale,AZ,air_travel
+2025-07-30,MARRIOTT HOTEL,148.34,USD,Scottsdale,AZ,general_retail
+2025-07-30,WHOLE FOODS,99.31,USD,Scottsdale,AZ,groceries
+2025-07-31,WHOLE FOODS,74.21,USD,Scottsdale,AZ,groceries
+2025-08-02,AMAZON Mktp US,7.99,USD,Scottsdale,AZ,delivery_shipping
+2025-08-04,AMAZON Mktp US,7.85,USD,Scottsdale,AZ,delivery_shipping
+2025-08-06,AMAZON Mktp US,29.73,USD,Scottsdale,AZ,delivery_shipping
+2025-08-07,DELTA AIR,294.5,USD,Scottsdale,AZ,air_travel
+2025-08-07,LYFT RIDE,34.94,USD,Scottsdale,AZ,ride_hail
+2025-08-08,WHOLE FOODS,24.15,USD,Scottsdale,AZ,groceries
+2025-08-09,STARBUCKS,7.92,USD,Scottsdale,AZ,restaurants
+2025-08-09,UBER *TRIP,13.8,USD,Scottsdale,AZ,ride_hail
+2025-08-09,WHOLE FOODS,42.0,USD,Scottsdale,AZ,groceries
+2025-08-11,AMAZON Mktp US,57.55,USD,Scottsdale,AZ,delivery_shipping
+2025-08-11,LYFT RIDE,24.91,USD,Scottsdale,AZ,ride_hail
+2025-08-12,AMAZON Mktp US,24.61,USD,Scottsdale,AZ,delivery_shipping
+2025-08-12,SPOTIFY,10.99,USD,Scottsdale,AZ,streaming
+2025-08-13,AMAZON Mktp US,9.83,USD,Scottsdale,AZ,delivery_shipping
+2025-08-13,WHOLE FOODS,45.44,USD,Scottsdale,AZ,groceries
+2025-08-14,AMAZON Mktp US,18.64,USD,Scottsdale,AZ,delivery_shipping
+2025-08-14,SOUTHWEST AIR,252.26,USD,Scottsdale,AZ,air_travel
+2025-08-14,WHOLE FOODS,23.94,USD,Scottsdale,AZ,groceries
+2025-08-15,UBER *TRIP,20.64,USD,Scottsdale,AZ,ride_hail
+2025-08-15,UBER *TRIP,17.91,USD,Scottsdale,AZ,ride_hail
+2025-08-15,WHOLE FOODS,28.14,USD,Scottsdale,AZ,groceries
+2025-08-17,STARBUCKS,4.36,USD,Scottsdale,AZ,restaurants
+2025-08-17,UBER *TRIP,18.03,USD,Scottsdale,AZ,ride_hail
+2025-08-18,LYFT RIDE,12.56,USD,Scottsdale,AZ,ride_hail
+2025-08-18,MARRIOTT HOTEL,197.33,USD,Scottsdale,AZ,general_retail
+2025-08-19,LYFT RIDE,22.93,USD,Scottsdale,AZ,ride_hail
+2025-08-20,AMAZON Mktp US,48.44,USD,Scottsdale,AZ,delivery_shipping
+2025-08-20,AMAZON Mktp US,49.81,USD,Scottsdale,AZ,delivery_shipping
+2025-08-20,DELTA AIR,611.89,USD,Scottsdale,AZ,air_travel
+2025-08-21,UBER *TRIP,30.46,USD,Scottsdale,AZ,ride_hail
+2025-08-22,DELTA AIR,441.84,USD,Scottsdale,AZ,air_travel
+2025-08-22,DISNEYPLUS,9.99,USD,Scottsdale,AZ,streaming
+2025-08-22,STARBUCKS,7.31,USD,Scottsdale,AZ,restaurants
+2025-08-23,AMAZON Mktp US,46.41,USD,Scottsdale,AZ,delivery_shipping
+2025-08-23,LYFT RIDE,23.77,USD,Scottsdale,AZ,ride_hail
+2025-08-23,STARBUCKS,6.92,USD,Scottsdale,AZ,restaurants
+2025-08-24,AMAZON Mktp US,8.56,USD,Scottsdale,AZ,delivery_shipping
+2025-08-26,AMAZON Mktp US,53.59,USD,Scottsdale,AZ,delivery_shipping
+2025-08-26,LYFT RIDE,18.09,USD,Scottsdale,AZ,ride_hail
+2025-08-26,STARBUCKS,3.8,USD,Scottsdale,AZ,restaurants
+2025-08-28,LYFT RIDE,21.68,USD,Scottsdale,AZ,ride_hail
+2025-08-29,AMAZON Mktp US,30.35,USD,Scottsdale,AZ,delivery_shipping
+2025-08-29,DELTA AIR,244.12,USD,Scottsdale,AZ,air_travel
+2025-08-29,SOUTHWEST AIR,439.11,USD,Scottsdale,AZ,air_travel
+2025-08-31,MARRIOTT HOTEL,192.64,USD,Scottsdale,AZ,general_retail
+2025-08-31,MARRIOTT HOTEL,216.97,USD,Scottsdale,AZ,general_retail
+2025-09-01,DELTA AIR,250.03,USD,Scottsdale,AZ,air_travel
+2025-09-01,MARRIOTT HOTEL,199.0,USD,Scottsdale,AZ,general_retail
+2025-09-01,SOUTHWEST AIR,303.34,USD,Scottsdale,AZ,air_travel
+2025-09-02,MARRIOTT HOTEL,349.88,USD,Scottsdale,AZ,general_retail
+2025-09-02,MARRIOTT HOTEL,199.0,USD,Scottsdale,AZ,general_retail
+2025-09-03,STARBUCKS,3.32,USD,Scottsdale,AZ,restaurants
+2025-09-04,SOUTHWEST AIR,333.22,USD,Scottsdale,AZ,air_travel
+2025-09-04,SOUTHWEST AIR,395.84,USD,Scottsdale,AZ,air_travel
+2025-09-06,SOUTHWEST AIR,479.84,USD,Scottsdale,AZ,air_travel
+2025-09-06,UBER *TRIP,14.35,USD,Scottsdale,AZ,ride_hail
+2025-09-06,WHOLE FOODS,134.77,USD,Scottsdale,AZ,groceries
+2025-09-07,SOUTHWEST AIR,162.46,USD,Scottsdale,AZ,air_travel
+2025-09-07,UBER *TRIP,32.17,USD,Scottsdale,AZ,ride_hail
+2025-09-08,SOUTHWEST AIR,519.28,USD,Scottsdale,AZ,air_travel
+2025-09-09,DELTA AIR,358.03,USD,Scottsdale,AZ,air_travel
+2025-09-09,MARRIOTT HOTEL,321.5,USD,Scottsdale,AZ,general_retail
+2025-09-12,SOUTHWEST AIR,126.48,USD,Scottsdale,AZ,air_travel
+2025-09-12,SPOTIFY,10.99,USD,Scottsdale,AZ,streaming
+2025-09-12,STARBUCKS,3.71,USD,Scottsdale,AZ,restaurants
+2025-09-13,MARRIOTT HOTEL,129.94,USD,Scottsdale,AZ,general_retail
+2025-09-14,UBER *TRIP,30.83,USD,Scottsdale,AZ,ride_hail
+2025-09-15,MARRIOTT HOTEL,140.26,USD,Scottsdale,AZ,general_retail
+2025-09-15,STARBUCKS,3.93,USD,Scottsdale,AZ,restaurants
+2025-09-15,UBER *TRIP,30.29,USD,Scottsdale,AZ,ride_hail
+2025-09-16,AMAZON Mktp US,41.52,USD,Scottsdale,AZ,delivery_shipping
+2025-09-16,DELTA AIR,458.77,USD,Scottsdale,AZ,air_travel
+2025-09-16,LYFT RIDE,21.39,USD,Scottsdale,AZ,ride_hail
+2025-09-18,AMAZON Mktp US,43.25,USD,Scottsdale,AZ,delivery_shipping
+2025-09-19,AMAZON Mktp US,57.43,USD,Scottsdale,AZ,delivery_shipping
+2025-09-19,MARRIOTT HOTEL,293.63,USD,Scottsdale,AZ,general_retail
+2025-09-19,MARRIOTT HOTEL,313.79,USD,Scottsdale,AZ,general_retail
+2025-09-20,AMAZON Mktp US,27.9,USD,Scottsdale,AZ,delivery_shipping
+2025-09-20,STARBUCKS,6.22,USD,Scottsdale,AZ,restaurants

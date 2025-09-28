@@ -1,0 +1,136 @@
+date,merchant,amount,currency,city,state,category
+2025-07-01,APPLE.COM/BILL,2.82,USD,Mesa,AZ,streaming
+2025-07-01,COSTCO,141.53,USD,Mesa,AZ,general_retail
+2025-07-01,WALMART,86.64,USD,Mesa,AZ,general_retail
+2025-07-03,COSTCO,60.74,USD,Mesa,AZ,general_retail
+2025-07-03,UBER *TRIP,19.22,USD,Mesa,AZ,ride_hail
+2025-07-03,WALMART,106.01,USD,Mesa,AZ,general_retail
+2025-07-04,COSTCO,65.12,USD,Mesa,AZ,general_retail
+2025-07-04,TARGET,118.84,USD,Mesa,AZ,general_retail
+2025-07-04,UBER *TRIP,24.74,USD,Mesa,AZ,ride_hail
+2025-07-05,COSTCO,168.32,USD,Mesa,AZ,general_retail
+2025-07-05,TARGET,30.67,USD,Mesa,AZ,general_retail
+2025-07-06,HOME DEPOT,132.67,USD,Mesa,AZ,general_retail
+2025-07-06,SPOTIFY FAMILY,15.99,USD,Mesa,AZ,streaming
+2025-07-06,SPROUTS FARMERS,74.29,USD,Mesa,AZ,groceries
+2025-07-06,WALMART,175.97,USD,Mesa,AZ,general_retail
+2025-07-07,COSTCO,201.09,USD,Mesa,AZ,general_retail
+2025-07-07,SPROUTS FARMERS,131.79,USD,Mesa,AZ,groceries
+2025-07-07,TARGET,181.8,USD,Mesa,AZ,general_retail
+2025-07-08,HOME DEPOT,81.36,USD,Mesa,AZ,general_retail
+2025-07-09,PEACOCK,5.99,USD,Mesa,AZ,streaming
+2025-07-09,WALMART,80.96,USD,Mesa,AZ,general_retail
+2025-07-10,APPLE.COM/BILL,4.22,USD,Mesa,AZ,streaming
+2025-07-11,SPROUTS FARMERS,194.72,USD,Mesa,AZ,groceries
+2025-07-12,WALMART,160.84,USD,Mesa,AZ,general_retail
+2025-07-14,HOME DEPOT,224.52,USD,Mesa,AZ,general_retail
+2025-07-14,TARGET,84.07,USD,Mesa,AZ,general_retail
+2025-07-14,WALMART,45.12,USD,Mesa,AZ,general_retail
+2025-07-15,APPLE.COM/BILL,3.76,USD,Mesa,AZ,streaming
+2025-07-15,SPROUTS FARMERS,96.63,USD,Mesa,AZ,groceries
+2025-07-15,WALMART,45.12,USD,Mesa,AZ,general_retail
+2025-07-16,COSTCO,31.43,USD,Mesa,AZ,general_retail
+2025-07-16,HOME DEPOT,206.4,USD,Mesa,AZ,general_retail
+2025-07-17,HOME DEPOT,101.75,USD,Mesa,AZ,general_retail
+2025-07-17,HOME DEPOT,336.25,USD,Mesa,AZ,general_retail
+2025-07-17,HOME DEPOT,166.13,USD,Mesa,AZ,general_retail
+2025-07-18,AMAZON PRIME,14.99,USD,Mesa,AZ,delivery_shipping
+2025-07-19,UBER *TRIP,18.61,USD,Mesa,AZ,ride_hail
+2025-07-21,BEST BUY #123,466.49,USD,Mesa,AZ,electronics
+2025-07-21,COSTCO,47.62,USD,Mesa,AZ,general_retail
+2025-07-21,WALMART,21.71,USD,Mesa,AZ,general_retail
+2025-07-22,BEST BUY #123,85.77,USD,Mesa,AZ,electronics
+2025-07-22,BEST BUY #123,806.96,USD,Mesa,AZ,electronics
+2025-07-23,WALMART,156.42,USD,Mesa,AZ,general_retail
+2025-07-25,COSTCO,294.98,USD,Mesa,AZ,general_retail
+2025-07-26,AMAZON Mktp US,115.01,USD,Mesa,AZ,delivery_shipping
+2025-07-26,COSTCO,213.69,USD,Mesa,AZ,general_retail
+2025-07-26,SPROUTS FARMERS,31.79,USD,Mesa,AZ,groceries
+2025-07-27,AMAZON Mktp US,23.26,USD,Mesa,AZ,delivery_shipping
+2025-07-27,AMAZON Mktp US,109.08,USD,Mesa,AZ,delivery_shipping
+2025-07-28,AMAZON Mktp US,75.82,USD,Mesa,AZ,delivery_shipping
+2025-07-28,COSTCO,94.89,USD,Mesa,AZ,general_retail
+2025-07-28,HOME DEPOT,91.25,USD,Mesa,AZ,general_retail
+2025-07-29,UBER *TRIP,17.45,USD,Mesa,AZ,ride_hail
+2025-07-30,COSTCO,135.95,USD,Mesa,AZ,general_retail
+2025-07-31,COSTCO,242.83,USD,Mesa,AZ,general_retail
+2025-07-31,UBER *TRIP,27.91,USD,Mesa,AZ,ride_hail
+2025-08-01,TARGET,155.97,USD,Mesa,AZ,general_retail
+2025-08-01,WALMART,119.99,USD,Mesa,AZ,general_retail
+2025-08-02,HOME DEPOT,226.52,USD,Mesa,AZ,general_retail
+2025-08-02,TARGET,57.89,USD,Mesa,AZ,general_retail
+2025-08-03,UBER *TRIP,15.3,USD,Mesa,AZ,ride_hail
+2025-08-03,UBER *TRIP,21.55,USD,Mesa,AZ,ride_hail
+2025-08-03,UBER *TRIP,16.62,USD,Mesa,AZ,ride_hail
+2025-08-05,BEST BUY #123,239.48,USD,Mesa,AZ,electronics
+2025-08-05,SPROUTS FARMERS,51.82,USD,Mesa,AZ,groceries
+2025-08-05,WALMART,63.9,USD,Mesa,AZ,general_retail
+2025-08-06,SPOTIFY FAMILY,15.99,USD,Mesa,AZ,streaming
+2025-08-06,SPROUTS FARMERS,46.89,USD,Mesa,AZ,groceries
+2025-08-06,WALMART,138.27,USD,Mesa,AZ,general_retail
+2025-08-07,APPLE.COM/BILL,5.6,USD,Mesa,AZ,streaming
+2025-08-07,SPROUTS FARMERS,130.25,USD,Mesa,AZ,groceries
+2025-08-07,WALMART,36.78,USD,Mesa,AZ,general_retail
+2025-08-09,PEACOCK,5.99,USD,Mesa,AZ,streaming
+2025-08-12,AMAZON Mktp US,17.23,USD,Mesa,AZ,delivery_shipping
+2025-08-12,UBER *TRIP,20.68,USD,Mesa,AZ,ride_hail
+2025-08-13,AMAZON Mktp US,72.75,USD,Mesa,AZ,delivery_shipping
+2025-08-13,HOME DEPOT,71.86,USD,Mesa,AZ,general_retail
+2025-08-13,SPROUTS FARMERS,85.92,USD,Mesa,AZ,groceries
+2025-08-15,COSTCO,148.98,USD,Mesa,AZ,general_retail
+2025-08-17,AMAZON Mktp US,51.22,USD,Mesa,AZ,delivery_shipping
+2025-08-18,AMAZON PRIME,14.99,USD,Mesa,AZ,delivery_shipping
+2025-08-18,BEST BUY #123,805.02,USD,Mesa,AZ,electronics
+2025-08-18,WALMART,24.26,USD,Mesa,AZ,general_retail
+2025-08-19,BEST BUY #123,664.17,USD,Mesa,AZ,electronics
+2025-08-19,SPROUTS FARMERS,49.72,USD,Mesa,AZ,groceries
+2025-08-19,WALMART,22.26,USD,Mesa,AZ,general_retail
+2025-08-21,COSTCO,90.36,USD,Mesa,AZ,general_retail
+2025-08-21,TARGET,12.35,USD,Mesa,AZ,general_retail
+2025-08-21,WALMART,165.44,USD,Mesa,AZ,general_retail
+2025-08-22,COSTCO,138.62,USD,Mesa,AZ,general_retail
+2025-08-23,COSTCO,164.86,USD,Mesa,AZ,general_retail
+2025-08-23,TARGET,67.05,USD,Mesa,AZ,general_retail
+2025-08-23,WALMART,179.02,USD,Mesa,AZ,general_retail
+2025-08-24,APPLE.COM/BILL,7.7,USD,Mesa,AZ,streaming
+2025-08-24,BEST BUY #123,20.62,USD,Mesa,AZ,electronics
+2025-08-24,HOME DEPOT,41.39,USD,Mesa,AZ,general_retail
+2025-08-25,COSTCO,87.14,USD,Mesa,AZ,general_retail
+2025-08-25,HOME DEPOT,1200.0,USD,Phoenix,AZ,general_retail
+2025-08-25,TARGET,59.67,USD,Mesa,AZ,general_retail
+2025-08-25,WALMART,35.34,USD,Mesa,AZ,general_retail
+2025-08-26,BEST BUY #123,616.12,USD,Mesa,AZ,electronics
+2025-08-26,WALMART,58.89,USD,Mesa,AZ,general_retail
+2025-08-27,AMAZON Mktp US,78.83,USD,Mesa,AZ,delivery_shipping
+2025-08-27,SPROUTS FARMERS,35.38,USD,Mesa,AZ,groceries
+2025-08-29,AMAZON Mktp US,109.04,USD,Mesa,AZ,delivery_shipping
+2025-08-30,COSTCO,230.19,USD,Mesa,AZ,general_retail
+2025-08-31,SPROUTS FARMERS,178.43,USD,Mesa,AZ,groceries
+2025-08-31,UBER *TRIP,22.02,USD,Mesa,AZ,ride_hail
+2025-09-01,BEST BUY #123,430.5,USD,Mesa,AZ,electronics
+2025-09-01,BEST BUY #123,632.39,USD,Mesa,AZ,electronics
+2025-09-01,WALMART,87.14,USD,Mesa,AZ,general_retail
+2025-09-02,AMAZON Mktp US,95.76,USD,Mesa,AZ,delivery_shipping
+2025-09-03,COSTCO,64.76,USD,Mesa,AZ,general_retail
+2025-09-03,TARGET,117.39,USD,Mesa,AZ,general_retail
+2025-09-03,WALMART,33.46,USD,Mesa,AZ,general_retail
+2025-09-04,UBER *TRIP,29.55,USD,Mesa,AZ,ride_hail
+2025-09-06,SPOTIFY FAMILY,15.99,USD,Mesa,AZ,streaming
+2025-09-08,WALMART,130.01,USD,Mesa,AZ,general_retail
+2025-09-09,PEACOCK,5.99,USD,Mesa,AZ,streaming
+2025-09-11,BEST BUY #123,803.78,USD,Mesa,AZ,electronics
+2025-09-11,SPROUTS FARMERS,167.16,USD,Mesa,AZ,groceries
+2025-09-13,SPROUTS FARMERS,40.15,USD,Mesa,AZ,groceries
+2025-09-13,TARGET,56.85,USD,Mesa,AZ,general_retail
+2025-09-13,WALMART,171.63,USD,Mesa,AZ,general_retail
+2025-09-15,HOME DEPOT,48.95,USD,Mesa,AZ,general_retail
+2025-09-15,TARGET,160.47,USD,Mesa,AZ,general_retail
+2025-09-16,AMAZON Mktp US,41.7,USD,Mesa,AZ,delivery_shipping
+2025-09-17,AMAZON Mktp US,7.41,USD,Mesa,AZ,delivery_shipping
+2025-09-17,AMAZON Mktp US,111.96,USD,Mesa,AZ,delivery_shipping
+2025-09-17,WALMART,133.1,USD,Mesa,AZ,general_retail
+2025-09-18,AMAZON PRIME,14.99,USD,Mesa,AZ,delivery_shipping
+2025-09-18,BEST BUY #123,436.33,USD,Mesa,AZ,electronics
+2025-09-18,UBER *TRIP,25.38,USD,Mesa,AZ,ride_hail
+2025-09-19,WALMART,145.19,USD,Mesa,AZ,general_retail
+2025-09-19,WALMART,87.01,USD,Mesa,AZ,general_retail

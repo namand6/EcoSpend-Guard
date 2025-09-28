@@ -1,0 +1,144 @@
+date,merchant,amount,currency,city,state,category
+2025-07-01,AMAZON Mktp US,53.26,USD,Phoenix,AZ,delivery_shipping
+2025-07-02,UBER *TRIP,14.56,USD,Phoenix,AZ,ride_hail
+2025-07-02,UBER *TRIP,27.42,USD,Phoenix,AZ,ride_hail
+2025-07-03,AMAZON Mktp US,76.44,USD,Phoenix,AZ,delivery_shipping
+2025-07-04,AMAZON Mktp US,67.43,USD,Phoenix,AZ,delivery_shipping
+2025-07-04,PANERA BREAD,9.63,USD,Phoenix,AZ,restaurants
+2025-07-04,UBER *TRIP,22.71,USD,Phoenix,AZ,ride_hail
+2025-07-05,AMAZON Mktp US,32.45,USD,Phoenix,AZ,delivery_shipping
+2025-07-05,STARBUCKS,5.11,USD,Phoenix,AZ,restaurants
+2025-07-05,STARBUCKS,4.59,USD,Phoenix,AZ,restaurants
+2025-07-05,YOUTUBE PREMIUM,13.99,USD,Phoenix,AZ,streaming
+2025-07-06,AMAZON Mktp US,6.36,USD,Phoenix,AZ,delivery_shipping
+2025-07-06,SAFEWAY,65.87,USD,Phoenix,AZ,groceries
+2025-07-07,SAFEWAY,82.39,USD,Phoenix,AZ,groceries
+2025-07-07,SAFEWAY,116.08,USD,Phoenix,AZ,groceries
+2025-07-09,CITY TRANSIT,2.71,USD,Phoenix,AZ,general_retail
+2025-07-10,CITY TRANSIT,4.76,USD,Phoenix,AZ,general_retail
+2025-07-10,UBER *TRIP,14.87,USD,Phoenix,AZ,ride_hail
+2025-07-11,MICRO CENTER,159.34,USD,Phoenix,AZ,electronics
+2025-07-12,PANERA BREAD,9.49,USD,Phoenix,AZ,restaurants
+2025-07-12,SAFEWAY,77.06,USD,Phoenix,AZ,groceries
+2025-07-13,CITY TRANSIT,3.2,USD,Phoenix,AZ,general_retail
+2025-07-13,MICRO CENTER,247.11,USD,Phoenix,AZ,electronics
+2025-07-14,CITY TRANSIT,3.17,USD,Phoenix,AZ,general_retail
+2025-07-14,CITY TRANSIT,4.09,USD,Phoenix,AZ,general_retail
+2025-07-14,MICRO CENTER,105.98,USD,Phoenix,AZ,electronics
+2025-07-15,CITY TRANSIT,3.16,USD,Phoenix,AZ,general_retail
+2025-07-17,CITY TRANSIT,3.35,USD,Phoenix,AZ,general_retail
+2025-07-17,HULU,14.99,USD,Phoenix,AZ,streaming
+2025-07-17,SAFEWAY,61.78,USD,Phoenix,AZ,groceries
+2025-07-17,STARBUCKS,6.11,USD,Phoenix,AZ,restaurants
+2025-07-19,CITY TRANSIT,4.92,USD,Phoenix,AZ,general_retail
+2025-07-20,CITY TRANSIT,2.95,USD,Phoenix,AZ,general_retail
+2025-07-20,STARBUCKS,6.14,USD,Phoenix,AZ,restaurants
+2025-07-21,STARBUCKS,5.23,USD,Phoenix,AZ,restaurants
+2025-07-22,STARBUCKS,4.74,USD,Phoenix,AZ,restaurants
+2025-07-24,AMAZON Mktp US,42.92,USD,Phoenix,AZ,delivery_shipping
+2025-07-24,CITY TRANSIT,2.54,USD,Phoenix,AZ,general_retail
+2025-07-25,SAFEWAY,67.48,USD,Phoenix,AZ,groceries
+2025-07-26,AMAZON Mktp US,37.41,USD,Phoenix,AZ,delivery_shipping
+2025-07-26,CITY TRANSIT,4.15,USD,Phoenix,AZ,general_retail
+2025-07-26,PANERA BREAD,13.46,USD,Phoenix,AZ,restaurants
+2025-07-27,SAFEWAY,50.78,USD,Phoenix,AZ,groceries
+2025-07-27,STARBUCKS,3.99,USD,Phoenix,AZ,restaurants
+2025-07-27,UBER *TRIP,27.68,USD,Phoenix,AZ,ride_hail
+2025-07-28,PANERA BREAD,17.89,USD,Phoenix,AZ,restaurants
+2025-07-30,CITY TRANSIT,2.68,USD,Phoenix,AZ,general_retail
+2025-07-31,CITY TRANSIT,4.16,USD,Phoenix,AZ,general_retail
+2025-07-31,PANERA BREAD,9.63,USD,Phoenix,AZ,restaurants
+2025-08-01,AMAZON Mktp US,26.98,USD,Phoenix,AZ,delivery_shipping
+2025-08-01,MICRO CENTER,186.96,USD,Phoenix,AZ,electronics
+2025-08-01,STARBUCKS,5.99,USD,Phoenix,AZ,restaurants
+2025-08-02,CITY TRANSIT,2.5,USD,Phoenix,AZ,general_retail
+2025-08-02,PANERA BREAD,8.04,USD,Phoenix,AZ,restaurants
+2025-08-02,STARBUCKS,7.81,USD,Phoenix,AZ,restaurants
+2025-08-02,UBER *TRIP,12.84,USD,Phoenix,AZ,ride_hail
+2025-08-03,CITY TRANSIT,2.5,USD,Phoenix,AZ,general_retail
+2025-08-03,STARBUCKS,4.09,USD,Phoenix,AZ,restaurants
+2025-08-03,UBER *TRIP,10.62,USD,Phoenix,AZ,ride_hail
+2025-08-04,CITY TRANSIT,3.34,USD,Phoenix,AZ,general_retail
+2025-08-05,YOUTUBE PREMIUM,13.99,USD,Phoenix,AZ,streaming
+2025-08-06,MICRO CENTER,21.63,USD,Phoenix,AZ,electronics
+2025-08-06,STARBUCKS,5.51,USD,Phoenix,AZ,restaurants
+2025-08-06,UBER *TRIP,14.47,USD,Phoenix,AZ,ride_hail
+2025-08-07,MICRO CENTER,49.62,USD,Phoenix,AZ,electronics
+2025-08-07,PANERA BREAD,13.87,USD,Phoenix,AZ,restaurants
+2025-08-08,AMAZON Mktp US,22.46,USD,Phoenix,AZ,delivery_shipping
+2025-08-08,CITY TRANSIT,3.25,USD,Phoenix,AZ,general_retail
+2025-08-08,SAFEWAY,115.76,USD,Phoenix,AZ,groceries
+2025-08-09,AMAZON Mktp US,71.96,USD,Phoenix,AZ,delivery_shipping
+2025-08-10,AMAZON Mktp US,51.4,USD,Phoenix,AZ,delivery_shipping
+2025-08-10,MICRO CENTER,127.62,USD,Phoenix,AZ,electronics
+2025-08-10,PANERA BREAD,9.49,USD,Phoenix,AZ,restaurants
+2025-08-11,CITY TRANSIT,4.56,USD,Phoenix,AZ,general_retail
+2025-08-12,AMAZON Mktp US,57.58,USD,Phoenix,AZ,delivery_shipping
+2025-08-12,SAFEWAY,33.93,USD,Phoenix,AZ,groceries
+2025-08-12,SAFEWAY,95.29,USD,Phoenix,AZ,groceries
+2025-08-14,CITY TRANSIT,2.58,USD,Phoenix,AZ,general_retail
+2025-08-15,AMAZON Mktp US,32.05,USD,Phoenix,AZ,delivery_shipping
+2025-08-17,AMAZON Mktp US,44.86,USD,Phoenix,AZ,delivery_shipping
+2025-08-17,CITY TRANSIT,4.07,USD,Phoenix,AZ,general_retail
+2025-08-17,HULU,14.99,USD,Phoenix,AZ,streaming
+2025-08-17,MICRO CENTER,168.96,USD,Phoenix,AZ,electronics
+2025-08-18,PANERA BREAD,10.64,USD,Phoenix,AZ,restaurants
+2025-08-19,CITY TRANSIT,4.15,USD,Phoenix,AZ,general_retail
+2025-08-19,MICRO CENTER,43.14,USD,Phoenix,AZ,electronics
+2025-08-19,SAFEWAY,109.79,USD,Phoenix,AZ,groceries
+2025-08-21,AMAZON Mktp US,61.73,USD,Phoenix,AZ,delivery_shipping
+2025-08-21,MICRO CENTER,107.63,USD,Phoenix,AZ,electronics
+2025-08-21,STARBUCKS,7.05,USD,Phoenix,AZ,restaurants
+2025-08-22,AMAZON Mktp US,53.74,USD,Phoenix,AZ,delivery_shipping
+2025-08-23,AMAZON Mktp US,26.55,USD,Phoenix,AZ,delivery_shipping
+2025-08-23,CITY TRANSIT,3.7,USD,Phoenix,AZ,general_retail
+2025-08-23,PANERA BREAD,16.46,USD,Phoenix,AZ,restaurants
+2025-08-25,CITY TRANSIT,4.0,USD,Phoenix,AZ,general_retail
+2025-08-26,AMAZON Mktp US,27.83,USD,Phoenix,AZ,delivery_shipping
+2025-08-26,STARBUCKS,6.26,USD,Phoenix,AZ,restaurants
+2025-08-27,CITY TRANSIT,3.71,USD,Phoenix,AZ,general_retail
+2025-08-28,AMAZON Mktp US,41.72,USD,Phoenix,AZ,delivery_shipping
+2025-08-28,CITY TRANSIT,4.23,USD,Phoenix,AZ,general_retail
+2025-08-28,STARBUCKS,7.86,USD,Phoenix,AZ,restaurants
+2025-08-29,MICRO CENTER,59.11,USD,Phoenix,AZ,electronics
+2025-08-29,PANERA BREAD,12.66,USD,Phoenix,AZ,restaurants
+2025-08-30,STARBUCKS,7.89,USD,Phoenix,AZ,restaurants
+2025-08-31,CITY TRANSIT,3.22,USD,Phoenix,AZ,general_retail
+2025-08-31,CITY TRANSIT,4.55,USD,Phoenix,AZ,general_retail
+2025-08-31,PANERA BREAD,17.94,USD,Phoenix,AZ,restaurants
+2025-09-01,CITY TRANSIT,2.85,USD,Phoenix,AZ,general_retail
+2025-09-01,UBER *TRIP,26.5,USD,Phoenix,AZ,ride_hail
+2025-09-01,UBER *TRIP,11.34,USD,Phoenix,AZ,ride_hail
+2025-09-02,MICRO CENTER,228.45,USD,Phoenix,AZ,electronics
+2025-09-02,STARBUCKS,3.66,USD,Phoenix,AZ,restaurants
+2025-09-03,CITY TRANSIT,4.26,USD,Phoenix,AZ,general_retail
+2025-09-03,UBER *TRIP,18.96,USD,Phoenix,AZ,ride_hail
+2025-09-04,AMAZON Mktp US,38.81,USD,Phoenix,AZ,delivery_shipping
+2025-09-04,CITY TRANSIT,4.87,USD,Phoenix,AZ,general_retail
+2025-09-04,PANERA BREAD,8.25,USD,Phoenix,AZ,restaurants
+2025-09-05,AMAZON Mktp US,15.55,USD,Phoenix,AZ,delivery_shipping
+2025-09-05,STARBUCKS,4.88,USD,Phoenix,AZ,restaurants
+2025-09-05,YOUTUBE PREMIUM,13.99,USD,Phoenix,AZ,streaming
+2025-09-07,CITY TRANSIT,3.31,USD,Phoenix,AZ,general_retail
+2025-09-07,STARBUCKS,7.2,USD,Phoenix,AZ,restaurants
+2025-09-09,AMAZON Mktp US,5.88,USD,Phoenix,AZ,delivery_shipping
+2025-09-10,MICRO CENTER,1299.0,USD,Tempe,AZ,electronics
+2025-09-10,PANERA BREAD,11.9,USD,Phoenix,AZ,restaurants
+2025-09-10,STARBUCKS,4.86,USD,Phoenix,AZ,restaurants
+2025-09-12,MICRO CENTER,35.93,USD,Phoenix,AZ,electronics
+2025-09-12,PANERA BREAD,15.56,USD,Phoenix,AZ,restaurants
+2025-09-15,AMAZON Mktp US,75.17,USD,Phoenix,AZ,delivery_shipping
+2025-09-15,UBER *TRIP,27.48,USD,Phoenix,AZ,ride_hail
+2025-09-16,MICRO CENTER,143.21,USD,Phoenix,AZ,electronics
+2025-09-16,PANERA BREAD,16.84,USD,Phoenix,AZ,restaurants
+2025-09-16,SAFEWAY,51.56,USD,Phoenix,AZ,groceries
+2025-09-17,AMAZON Mktp US,11.04,USD,Phoenix,AZ,delivery_shipping
+2025-09-17,AMAZON Mktp US,35.82,USD,Phoenix,AZ,delivery_shipping
+2025-09-17,HULU,14.99,USD,Phoenix,AZ,streaming
+2025-09-17,SAFEWAY,74.92,USD,Phoenix,AZ,groceries
+2025-09-18,AMAZON Mktp US,70.21,USD,Phoenix,AZ,delivery_shipping
+2025-09-19,CITY TRANSIT,4.78,USD,Phoenix,AZ,general_retail
+2025-09-19,PANERA BREAD,12.15,USD,Phoenix,AZ,restaurants
+2025-09-19,SAFEWAY,32.73,USD,Phoenix,AZ,groceries
+2025-09-20,AMAZON Mktp US,78.22,USD,Phoenix,AZ,delivery_shipping
+2025-09-20,STARBUCKS,4.28,USD,Phoenix,AZ,restaurants

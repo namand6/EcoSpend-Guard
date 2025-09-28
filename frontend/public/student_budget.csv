@@ -1,0 +1,155 @@
+date,merchant,amount,currency,city,state,category
+2025-07-01,LYFT RIDE,14.92,USD,Tempe,AZ,ride_hail
+2025-07-01,UBER *TRIP,10.16,USD,Tempe,AZ,ride_hail
+2025-07-03,NETFLIX.COM,15.49,USD,Tempe,AZ,streaming
+2025-07-03,SPROUTS FARMERS,19.06,USD,Tempe,AZ,groceries
+2025-07-03,SPROUTS FARMERS,30.03,USD,Tempe,AZ,groceries
+2025-07-05,CHIPOTLE,8.7,USD,Tempe,AZ,restaurants
+2025-07-05,UBER *TRIP,17.82,USD,Tempe,AZ,ride_hail
+2025-07-05,UBER *TRIP,22.23,USD,Tempe,AZ,ride_hail
+2025-07-07,TARGET,79.02,USD,Tempe,AZ,general_retail
+2025-07-09,LYFT RIDE,13.34,USD,Tempe,AZ,ride_hail
+2025-07-09,UBER *TRIP,24.62,USD,Tempe,AZ,ride_hail
+2025-07-09,UBER *TRIP,17.91,USD,Tempe,AZ,ride_hail
+2025-07-10,SPROUTS FARMERS,23.25,USD,Tempe,AZ,groceries
+2025-07-11,LYFT RIDE,10.55,USD,Tempe,AZ,ride_hail
+2025-07-11,SPROUTS FARMERS,72.13,USD,Tempe,AZ,groceries
+2025-07-12,SPOTIFY,10.99,USD,Tempe,AZ,streaming
+2025-07-12,STARBUCKS,3.49,USD,Tempe,AZ,restaurants
+2025-07-15,CHIPOTLE,14.8,USD,Tempe,AZ,restaurants
+2025-07-16,AMAZON Mktp US,22.28,USD,Tempe,AZ,delivery_shipping
+2025-07-16,SPROUTS FARMERS,79.64,USD,Tempe,AZ,groceries
+2025-07-16,STARBUCKS,4.5,USD,Tempe,AZ,restaurants
+2025-07-17,TARGET,95.78,USD,Tempe,AZ,general_retail
+2025-07-19,SPROUTS FARMERS,49.66,USD,Tempe,AZ,groceries
+2025-07-19,STARBUCKS,6.65,USD,Tempe,AZ,restaurants
+2025-07-20,APPLE.COM/BILL,0.99,USD,Tempe,AZ,streaming
+2025-07-20,SPROUTS FARMERS,83.61,USD,Tempe,AZ,groceries
+2025-07-20,UBER *TRIP,17.19,USD,Tempe,AZ,ride_hail
+2025-07-21,AMAZON Mktp US,23.81,USD,Tempe,AZ,delivery_shipping
+2025-07-22,CHIPOTLE,8.39,USD,Tempe,AZ,restaurants
+2025-07-22,SPROUTS FARMERS,55.11,USD,Tempe,AZ,groceries
+2025-07-22,TARGET,18.54,USD,Tempe,AZ,general_retail
+2025-07-23,SPROUTS FARMERS,49.77,USD,Tempe,AZ,groceries
+2025-07-23,STARBUCKS,6.48,USD,Tempe,AZ,restaurants
+2025-07-24,STARBUCKS,5.37,USD,Tempe,AZ,restaurants
+2025-07-24,TARGET,17.15,USD,Tempe,AZ,general_retail
+2025-07-24,UBER *TRIP,22.44,USD,Tempe,AZ,ride_hail
+2025-07-25,TARGET,73.57,USD,Tempe,AZ,general_retail
+2025-07-25,TARGET,100.41,USD,Tempe,AZ,general_retail
+2025-07-26,TARGET,52.44,USD,Tempe,AZ,general_retail
+2025-07-26,TARGET,48.17,USD,Tempe,AZ,general_retail
+2025-07-27,LYFT RIDE,20.52,USD,Tempe,AZ,ride_hail
+2025-07-27,STARBUCKS,3.84,USD,Tempe,AZ,restaurants
+2025-07-27,UBER *TRIP,16.9,USD,Tempe,AZ,ride_hail
+2025-07-28,TARGET,37.24,USD,Tempe,AZ,general_retail
+2025-07-29,AMAZON Mktp US,32.31,USD,Tempe,AZ,delivery_shipping
+2025-07-29,LYFT RIDE,15.74,USD,Tempe,AZ,ride_hail
+2025-07-29,SPROUTS FARMERS,34.45,USD,Tempe,AZ,groceries
+2025-07-30,AMAZON Mktp US,28.68,USD,Tempe,AZ,delivery_shipping
+2025-07-31,STARBUCKS,6.41,USD,Tempe,AZ,restaurants
+2025-07-31,TARGET,55.68,USD,Tempe,AZ,general_retail
+2025-08-01,LYFT RIDE,11.26,USD,Tempe,AZ,ride_hail
+2025-08-01,LYFT RIDE,11.27,USD,Tempe,AZ,ride_hail
+2025-08-01,TARGET,35.67,USD,Tempe,AZ,general_retail
+2025-08-02,AMAZON Mktp US,37.4,USD,Tempe,AZ,delivery_shipping
+2025-08-02,LYFT RIDE,15.28,USD,Tempe,AZ,ride_hail
+2025-08-02,STARBUCKS,4.41,USD,Tempe,AZ,restaurants
+2025-08-03,LYFT RIDE,19.36,USD,Tempe,AZ,ride_hail
+2025-08-03,NETFLIX.COM,15.49,USD,Tempe,AZ,streaming
+2025-08-03,SPROUTS FARMERS,54.64,USD,Tempe,AZ,groceries
+2025-08-05,AMAZON Mktp US,47.9,USD,Tempe,AZ,delivery_shipping
+2025-08-05,AMAZON Mktp US,42.43,USD,Tempe,AZ,delivery_shipping
+2025-08-05,SPROUTS FARMERS,42.47,USD,Tempe,AZ,groceries
+2025-08-06,CHIPOTLE,9.04,USD,Tempe,AZ,restaurants
+2025-08-06,LYFT RIDE,10.01,USD,Tempe,AZ,ride_hail
+2025-08-06,TARGET,54.05,USD,Tempe,AZ,general_retail
+2025-08-07,CHIPOTLE,9.62,USD,Tempe,AZ,restaurants
+2025-08-08,SPROUTS FARMERS,18.68,USD,Tempe,AZ,groceries
+2025-08-08,UBER *TRIP,18.07,USD,Tempe,AZ,ride_hail
+2025-08-10,AMAZON Mktp US,16.44,USD,Tempe,AZ,delivery_shipping
+2025-08-10,SPROUTS FARMERS,16.79,USD,Tempe,AZ,groceries
+2025-08-11,CHIPOTLE,9.23,USD,Tempe,AZ,restaurants
+2025-08-11,LYFT RIDE,18.52,USD,Tempe,AZ,ride_hail
+2025-08-11,STARBUCKS,6.01,USD,Tempe,AZ,restaurants
+2025-08-12,CHIPOTLE,12.8,USD,Tempe,AZ,restaurants
+2025-08-12,SPOTIFY,10.99,USD,Tempe,AZ,streaming
+2025-08-12,STARBUCKS,3.43,USD,Tempe,AZ,restaurants
+2025-08-12,UBER *TRIP,20.99,USD,Tempe,AZ,ride_hail
+2025-08-13,CHIPOTLE,16.29,USD,Tempe,AZ,restaurants
+2025-08-13,LYFT RIDE,16.75,USD,Tempe,AZ,ride_hail
+2025-08-14,SPROUTS FARMERS,40.32,USD,Tempe,AZ,groceries
+2025-08-15,STARBUCKS,5.45,USD,Tempe,AZ,restaurants
+2025-08-16,STARBUCKS,5.45,USD,Tempe,AZ,restaurants
+2025-08-16,TARGET,104.97,USD,Tempe,AZ,general_retail
+2025-08-16,TARGET,103.0,USD,Tempe,AZ,general_retail
+2025-08-17,LYFT RIDE,14.34,USD,Tempe,AZ,ride_hail
+2025-08-17,LYFT RIDE,16.99,USD,Tempe,AZ,ride_hail
+2025-08-17,STARBUCKS,5.45,USD,Tempe,AZ,restaurants
+2025-08-18,AMAZON Mktp US,48.36,USD,Tempe,AZ,delivery_shipping
+2025-08-18,TARGET,34.53,USD,Tempe,AZ,general_retail
+2025-08-19,AMAZON Mktp US,18.17,USD,Tempe,AZ,delivery_shipping
+2025-08-20,APPLE.COM/BILL,0.99,USD,Tempe,AZ,streaming
+2025-08-20,LYFT RIDE,16.76,USD,Tempe,AZ,ride_hail
+2025-08-20,STARBUCKS,6.66,USD,Tempe,AZ,restaurants
+2025-08-20,TARGET,98.37,USD,Tempe,AZ,general_retail
+2025-08-22,CHIPOTLE,10.59,USD,Tempe,AZ,restaurants
+2025-08-22,TARGET,76.57,USD,Tempe,AZ,general_retail
+2025-08-23,CHIPOTLE,16.09,USD,Tempe,AZ,restaurants
+2025-08-23,TARGET,118.68,USD,Tempe,AZ,general_retail
+2025-08-24,LYFT RIDE,16.05,USD,Tempe,AZ,ride_hail
+2025-08-24,UBER *TRIP,12.53,USD,Tempe,AZ,ride_hail
+2025-08-25,LYFT RIDE,16.24,USD,Tempe,AZ,ride_hail
+2025-08-25,SPROUTS FARMERS,73.83,USD,Tempe,AZ,groceries
+2025-08-26,TARGET,47.84,USD,Tempe,AZ,general_retail
+2025-08-26,TARGET,19.33,USD,Tempe,AZ,general_retail
+2025-08-26,TARGET,23.19,USD,Tempe,AZ,general_retail
+2025-08-27,AMAZON Mktp US,44.13,USD,Tempe,AZ,delivery_shipping
+2025-08-27,LYFT RIDE,16.17,USD,Tempe,AZ,ride_hail
+2025-08-27,LYFT RIDE,15.51,USD,Tempe,AZ,ride_hail
+2025-08-28,TARGET,53.54,USD,Tempe,AZ,general_retail
+2025-08-28,UBER *TRIP,21.81,USD,Tempe,AZ,ride_hail
+2025-08-29,LYFT RIDE,9.41,USD,Tempe,AZ,ride_hail
+2025-08-29,TARGET,114.15,USD,Tempe,AZ,general_retail
+2025-08-29,TARGET,27.47,USD,Tempe,AZ,general_retail
+2025-08-30,AMAZON Mktp US,41.07,USD,Tempe,AZ,delivery_shipping
+2025-08-30,BEST BUY #123,899.99,USD,Scottsdale,AZ,electronics
+2025-08-30,CHIPOTLE,14.57,USD,Tempe,AZ,restaurants
+2025-08-30,SPROUTS FARMERS,72.86,USD,Tempe,AZ,groceries
+2025-08-31,LYFT RIDE,17.23,USD,Tempe,AZ,ride_hail
+2025-08-31,LYFT RIDE,9.32,USD,Tempe,AZ,ride_hail
+2025-09-02,CHIPOTLE,17.87,USD,Tempe,AZ,restaurants
+2025-09-03,AMAZON Mktp US,53.06,USD,Tempe,AZ,delivery_shipping
+2025-09-03,NETFLIX.COM,15.49,USD,Tempe,AZ,streaming
+2025-09-05,LYFT RIDE,13.39,USD,Tempe,AZ,ride_hail
+2025-09-05,LYFT RIDE,20.46,USD,Tempe,AZ,ride_hail
+2025-09-06,AMAZON Mktp US,12.21,USD,Tempe,AZ,delivery_shipping
+2025-09-06,STARBUCKS,5.72,USD,Tempe,AZ,restaurants
+2025-09-07,AMAZON Mktp US,54.74,USD,Tempe,AZ,delivery_shipping
+2025-09-07,CHIPOTLE,14.62,USD,Tempe,AZ,restaurants
+2025-09-08,AMAZON Mktp US,55.47,USD,Tempe,AZ,delivery_shipping
+2025-09-08,LYFT RIDE,16.85,USD,Tempe,AZ,ride_hail
+2025-09-08,SPROUTS FARMERS,24.15,USD,Tempe,AZ,groceries
+2025-09-10,AMAZON Mktp US,15.07,USD,Tempe,AZ,delivery_shipping
+2025-09-10,LYFT RIDE,11.59,USD,Tempe,AZ,ride_hail
+2025-09-10,UBER *TRIP,21.42,USD,Tempe,AZ,ride_hail
+2025-09-11,SPROUTS FARMERS,65.76,USD,Tempe,AZ,groceries
+2025-09-11,SPROUTS FARMERS,19.32,USD,Tempe,AZ,groceries
+2025-09-11,TARGET,67.02,USD,Tempe,AZ,general_retail
+2025-09-12,AMAZON Mktp US,47.71,USD,Tempe,AZ,delivery_shipping
+2025-09-12,LYFT RIDE,13.15,USD,Tempe,AZ,ride_hail
+2025-09-12,SPOTIFY,10.99,USD,Tempe,AZ,streaming
+2025-09-12,SPROUTS FARMERS,18.98,USD,Tempe,AZ,groceries
+2025-09-14,SPROUTS FARMERS,16.95,USD,Tempe,AZ,groceries
+2025-09-14,SPROUTS FARMERS,83.14,USD,Tempe,AZ,groceries
+2025-09-14,UBER *TRIP,16.09,USD,Tempe,AZ,ride_hail
+2025-09-15,TARGET,40.49,USD,Tempe,AZ,general_retail
+2025-09-16,SPROUTS FARMERS,80.91,USD,Tempe,AZ,groceries
+2025-09-16,STARBUCKS,7.61,USD,Tempe,AZ,restaurants
+2025-09-16,TARGET,67.55,USD,Tempe,AZ,general_retail
+2025-09-17,AMAZON Mktp US,29.61,USD,Tempe,AZ,delivery_shipping
+2025-09-18,LYFT RIDE,15.43,USD,Tempe,AZ,ride_hail
+2025-09-18,STARBUCKS,3.36,USD,Tempe,AZ,restaurants
+2025-09-18,UBER *TRIP,15.28,USD,Tempe,AZ,ride_hail
+2025-09-19,TARGET,43.31,USD,Tempe,AZ,general_retail
+2025-09-20,APPLE.COM/BILL,0.99,USD,Tempe,AZ,streaming

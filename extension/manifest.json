@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "EcoSpend Helper",
+  "version": "0.1.0",
+  "description": "Scrape Amazon orders and send to EcoSpend backend.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "*://*.amazon.com/*",
+    "http://127.0.0.1:8000/*",
+    "http://localhost:8000/*"
+  ],
+  "background": { "service_worker": "bg.js" },
+  "options_page": "options.html",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.amazon.com/*",
+        "*://smile.amazon.com/*",
+        "*://*.amazon.com/*"
+      ],
+      "js": ["content.amazon.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
